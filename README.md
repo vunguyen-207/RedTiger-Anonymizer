@@ -1,4 +1,4 @@
-# RedTiger.py - Quản lý Quyền riêng tư và Bảo mật Windows của bạn.
+# RedTiger Anonymizer - Quản lý Quyền riêng tư và Bảo mật Windows của bạn.
 
 ## Giới thiệu
 
